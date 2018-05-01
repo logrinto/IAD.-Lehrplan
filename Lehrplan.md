@@ -567,3 +567,40 @@
 
 ### Diplomarbeit/-begleitung
 ✎ 120 Lektionen
+
+
+## Unterrichtslektionen
+
+### Unterricht
+▶︎ exklusiv Projektwochen/Thesis/Diplom
+✎ 1672 Lektionen
+
+## Projektwochen
+
+### Projektwoche 1
+▶︎ Schluss 1. Semester
+✎ 40 Lektionen
+
+### Projektwoche 2
+▶︎ Schluss 2. Semester
+✎ 40 Lektionen
+
+## Thesis
+
+### Thesisarbeit/-begleitung
+✎ 48 Lektionen
+
+## Diplomarbeit
+
+### Diplomarbeit/-begleitung
+✎ 120 Lektionen
+
+## Arbeiten/betriebliche Praxis
+
+### persönliche Praxis
+✎ 1600 Lektionen
+
+## Total Lektionen; Unterrichtskontext/Praxis
+
+### Unterricht/Projektw./Thesis/Diplom/Praxis
+✎ 3600 Lektionen
