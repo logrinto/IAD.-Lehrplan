@@ -3,16 +3,16 @@
 ## Kontextwissen (200 Lektionen)
 
 ### Medien-/Technologiegeschichte
-▶︎ 1./3./6. Semester  
-→ Verbunden mit Kommunikationslehre/Medientheorie  
-✎ 140 Lektionen  
+1./3./6. Semester  
+Verbunden mit Kommunikationslehre/Medientheorie  
+140 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien
 - Einzel-/Gruppenarbeiten
 - Analysearbeiten
 
-◆ Die Studierenden…
+Die Studierenden…
 * kennen die Grundlagen von Kunst- und Kulturgeschichte ab dem 20. Jahrhundert und können diese chronologisch einordnen. K2
 * kennen die wichtigsten Entwicklungsschritte und kulturellen Zusammenhänge in Bezug auf Bildgestaltung/Fotografie/bewegtes Bild. K2
 * verstehen die europäische Schriftentwicklung und die damit verbundene technologische Innovation am dem 19. Jahrhundert. K2
@@ -26,16 +26,16 @@
 
 
 ### Kommunikationslehre/Medientheorie
-▶︎ 1./3./6. Semester  
-→ Verbunden mit Medien-/Technologiegeschichte  
-✎ 140 Lektionen  
+1./3./6. Semester  
+Verbunden mit Medien-/Technologiegeschichte  
+140 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien
 - Einzel-/Gruppenarbeiten
 - Analysearbeiten
 
-◆ Die Studierenden…
+Die Studierenden…
 * kennen in die historische Entwicklung der Medien- und  Kommunikationstheorie. K2
 * kennen die Eigenheiten von computervermittelter Kommunikation zwischen Menschen. K2
 * kennen die Vor- und Nachteile von Maschine-zu-Maschine-Kommunikation. K2
@@ -47,14 +47,14 @@
 
 
 ### Copyright, Lizenzen und Recht
-▶︎ 2. Semester  
-→ Verbunden mit Marktumfeld/Marktanalyse  
-✎ 60 Lektionen  
+2. Semester  
+Verbunden mit Marktumfeld/Marktanalyse  
+60 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzel-/Gruppenarbeiten
 
-◆ Die Studierenden…
+Die Studierenden…
 * kennen die Rechte/Pflichten des Urheberrechts in der Schweiz. K2
 * können die Situation bezüglich Rechte/Pflichten des Urheberrechts in der Schweiz im Kontext zu Europa/International einschätzen. K2
 * kennen verschiedene Lizenzmodelle und können selbständig entscheiden, welche Lizenz für Ihre Arbeit adäquat ist. K2
@@ -64,9 +64,9 @@
 
 
 ### Marktumfeld/Marktanalyse
-▶︎ 2./4. Semester  
-→ Verbunden mit Copyright, Lizenzen & Recht  
-✎ 60 Lektionen  
+2./4. Semester  
+Verbunden mit Copyright, Lizenzen & Recht  
+60 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -74,7 +74,7 @@
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 
-◆ Die Studierenden…
+Die Studierenden…
 * können Märkte erkennen, abgrenzen und definieren. K6
 * Können eine Zielgruppe mit adäquaten Methoden analysieren, diese definieren und entsprechend formulieren. K5
 * Können eine Produkt, ein Projekt entsprechend der Zielgruppe argumentativ vertreten und erklären. K3
@@ -88,9 +88,9 @@
 ## Konzeption/Crossmedia (324 Lektionen)
 
 ### Konzeption
-▶︎ 1./3./6. Semester  
-→ Verbunden mit Dramaturgie/Narration  
-✎ 180 Lektionen  
+1./3./6. Semester  
+Verbunden mit Dramaturgie/Narration  
+180 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -98,7 +98,7 @@
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 
-◆ Die Studierenden…
+Die Studierenden…
 * kennen verschiedene Techniken um einen kreativen Prozess zu initiieren und können diese gezielt einsetzen. K5
 * kennen Techniken und Möglichkeiten um die Konzeption bestehend auf Analyse/Markt zu erstellen. K4
 * können abschätzen, in welchen Bereichen durch Techniker/Fachpersonal bereits Expertenwissen in der Konzeption nötig ist. K4
@@ -108,9 +108,9 @@
 
 
 ### Dramaturgie/Narration
-▶︎ 1./2. Semester  
-→ Verbunden mit Konzeption  
-✎ 180 Lektionen  
+1./2. Semester  
+Verbunden mit Konzeption  
+180 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -118,23 +118,23 @@
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 
-◆ Die Studierenden…
+Die Studierenden…
 * verstehen es, eine Dramaturgie in einer Geschichte/Gestaltung zu planen. K3
 * können eine Narration in der Gestaltung und Erzählung schlüssig erarbeiten. K5
 * kennen verschiedene Arten Inhalte zu erzählen. K3
 
 
 ### Recherche
-▶︎ 4./5. Semester  
-→ Verbunden mit Crossmedia  
-✎ 144 Lektionen  
+4./5. Semester  
+Verbunden mit Crossmedia  
+144 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
 - Beurteilungs-/Analysearbeiten
 
-◆ Die Studierenden…
+Die Studierenden…
 * kennen Quellen, Werkzeuge und Techniken für die Recherche von Daten, Texten und Bilder. K3
 * können selbstständig recherchieren und die vorliegende Datenlage bewerten. K3
 * können eine umfassende Recherche für Informationsgrafik/Diagram/Daten anstossen und begleiten. K3
@@ -142,9 +142,9 @@
 
 
 ### Crossmedia
-▶︎ 5. Semester  
-→ Verbunden mit Recherche  
-✎ 144 Lektionen  
+5. Semester  
+Verbunden mit Recherche  
+144 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -153,7 +153,7 @@
 - Projektarbeit
 - Programmschulung
 
-◆ Die Studierenden…
+Die Studierenden…
 * kennen Unterschiede zwischen Crossmedia/Multichannel/Multi Device. K4
 * verstehen wie Daten medienneutrale aufbereitet und übergeben werden. K2
 * kennen die einzelnen Medien/Kanäle und können deren Stärken gezielt einsetzen. K3
@@ -163,9 +163,9 @@
 ## Design (264 Lektionen)
 
 ### Typografie und Design
-▶︎ 1./2./3./4. Semester  
-→ Verbunden mit Leseführung  
-✎ 240 Lektionen  
+1./2./3./4. Semester  
+Verbunden mit Leseführung  
+240 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -174,7 +174,7 @@
 - Projektarbeit
 - Programmschulung
 
-◆ Die Studierenden…
+Die Studierenden…
 * können die Grundlagen der Satztechnik bezogen auf digitale Medien anwenden, beurteilen und bewerten. K6
 * können die typografische Zeichensetzung und mikrotypografischen Möglichkeiten korrekt einsetzen und auf digitalen Kanälen entsprechend anwenden. K5
 * können Mengentext typografisch korrekt Aufbereiten und Formatieren. K3
@@ -187,15 +187,15 @@
 
 
 ### Branding/Corporate Design
-▶︎ 5. Semester  
-✎ 24 Lektionen  
+5. Semester  
+24 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
 - Beurteilungs-/Analysearbeiten
 
-◆ Die Studierenden…
+Die Studierenden…
 * verstehen die Grundlagen von Corporate Identity und Corporate Design, können ihr Arbeitsfeld entsprechend einordnen. K4
 * können das Design eines Brandings für digitale Ausgabemedien mitentwickeln. K3
 * können die Branding-Aspekte in der Interaktion gestalterisch durchdenken, planen und umsetzen. K4
@@ -204,9 +204,9 @@
 
 
 ### Leseführung
-▶︎ 1./2. Semester  
-→ Verbunden mit Typografie und Design  
-✎ 240 Lektionen  
+1./2. Semester  
+Verbunden mit Typografie und Design  
+240 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -215,7 +215,7 @@
 - Projektarbeit
 - Programmschulung
 
-◆ Die Studierenden…
+Die Studierenden…
 * verstehen den Unterschied zwischen informierendem Lesen und linearem Lesen sowie die typografischen Eigenheiten. K4
 * können auf Lesebedürfnisse für Lernende und deren Anforderungen im Design eingehen. K3
 * verstehen, wie die Leseführung in verschiedenen Ausgabegeräten zu gewährleisten ist. K4
@@ -226,8 +226,8 @@
 ## Interaktion (280 Lektionen)
 
 ### Prototyping/Storyboard
-▶︎ 1. Semester  
-✎ 60 Lektionen  
+1. Semester  
+60 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -236,7 +236,7 @@
 - Projektarbeit
 - Programmschulung
 
-◆ Die Studierenden…
+Die Studierenden…
 * können erzählerische Abfolgen als visuellen Entwurf entwickeln. K3
 * können mit einfachen Mitteln eine Interaktion visualisieren und entwickeln. K3
 * können Prototypen für animierte Inhalte erstellen. K3
@@ -244,9 +244,9 @@
 
 
 ### Interaction Design
-▶︎ 2./3. Semester  
-→ Verbunden mit User Interface  
-✎ 160 Lektionen  
+2./3. Semester  
+Verbunden mit User Interface  
+160 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -255,7 +255,7 @@
 - Projektarbeit
 - Programmschulung
 
-◆ Die Studierenden…
+Die Studierenden…
 * verstehen welche Teile eines Konzeptes/Designs eine Interaktion erfordern und können dies umsetzen. K3
 * können Mittel der Interaktion gezielt einsetzen um den Inhalt zu transportieren. K3
 * können das Potential interaktiv nutzbarer Information einschätzen, umsetzten und benutzerfreundlich zugänglich machen. K3
@@ -264,9 +264,9 @@
 
 
 ### User Interface  
-▶︎ 2./3./5. Semester  
-→ Verbunden mit Interaction Design
-✎ 160 Lektionen  
+2./3./5. Semester  
+Verbunden mit Interaction Design
+160 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -275,7 +275,7 @@
 - Projektarbeit
 - Programmschulung
 
-◆ Die Studierenden…
+Die Studierenden…
 * können die Prioritäten und den Fokus des Interfaces richtig setzen. K4
 * Können das Interface dem Ausgabegerät entsprechend adaptieren. K3
 * verstehen gebräuchliche Interface-Elemente und das damit verbundene Verhalten. K4
@@ -286,9 +286,9 @@
 
 
 ### User Experience/Usability
-▶︎ 5. Semester  
-→ Verbunden mit Interaktives Umfeld
-✎ 60 Lektionen  
+5. Semester  
+Verbunden mit Interaktives Umfeld
+60 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -297,7 +297,7 @@
 - Projektarbeit
 - Programmschulung
 
-◆ Die Studierenden…
+Die Studierenden…
 * verstehen, wie sich Design reaktiv auf Benutzer anpassen kann. K4
 * können benutzerseitige Erwartungen an ein Interface richtig einordnen und entsprechend darauf reagieren. K3
 * können Wahrnehmung und Reaktion der Testbenutzer erfassen und im Arbeitsprozess angemessen darauf reagieren. K3
@@ -305,9 +305,9 @@
 
 
 ### Interaktives Umfeld
-▶︎ 5. Semester  
-→ Verbunden mit User Experience/Usability
-✎ 60 Lektionen  
+5. Semester  
+Verbunden mit User Experience/Usability
+60 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -316,7 +316,7 @@
 - Projektarbeit
 - Programmschulung
 
-◆ Die Studierenden…
+Die Studierenden…
 * kennen das Vokabular sowie die Terminologie des 3D Design, Motion und Ton/Sounddesigns. K2
 * können grundlegende Arbeiten im Bereich Bewegtbild sowie Audio selbstständig ausführen. K4
 * können elementare Arbeiten im Bereich von 3D-Modellen ausführen. K5
@@ -326,9 +326,9 @@
 ## Technologie (320 Lektionen)
 
 ### Grundlagen und Code
-▶︎ 1./2./3./4. Semester  
-→ Verbunden mit Typografie und Technik
-✎ 264 Lektionen  
+1./2./3./4. Semester  
+Verbunden mit Typografie und Technik
+264 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -337,7 +337,7 @@
 - Projektarbeit
 - Programmschulung
 
-◆ Die Studierenden…
+Die Studierenden…
 * können einfache interaktive Prototypen erstellen. K3
 * verstehen die Grundlagen der Technologie (HTML, CSS, JavaScript) einer Website. K2
 * kennen den Aufbau und die wichtigen Tags von HTML. K3
@@ -350,9 +350,9 @@
 
 
 ### Typografie und Technik
-▶︎ 1./5./6. Semester  
-→ Verbunden mit Grundlagen und Code
-✎ 264 Lektionen  
+1./5./6. Semester  
+Verbunden mit Grundlagen und Code
+264 Lektionen  
 
 
 - Vorlesungen/Seminar
@@ -362,7 +362,7 @@
 - Projektarbeit
 - Programmschulung
 
-◆ Die Studierenden…
+Die Studierenden…
 * verstehen die technischen Mittel, mit denen Typografie und Layout im Web realisiert wird und können diese anwenden. K4
 * verstehen die verschiedenen Grössen-Definitionen (CSS) mit denen Typografie relativ oder absolut definiert wird. K4
 * verstehen die Technologie und Möglichkeiten von Webfonts und können diese projektbezogen einsetzen. K4
@@ -370,8 +370,8 @@
 
 
 ### Devices
-▶︎ 1. Semester  
-✎ 24 Lektionen  
+1. Semester  
+24 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -380,7 +380,7 @@
 - Projektarbeit
 - Programmschulung
 
-◆ Die Studierenden…
+Die Studierenden…
 * kennen übliche Ausgabegeräte und deren spezifische technologische Eigenheiten. K4
 * kennen die Unterschiede von verschiedenen Bildschirm-Technologien.  K4
 * kennen die Eigenheiten von verschiedenen Eingabemöglichkeiten (Maus, Tastatur, Finger, Stift, ...). K4
@@ -388,8 +388,8 @@
 
 
 ### Suchmaschine und Statistiken
-▶︎ 2. Semester  
-✎ 32 Lektionen  
+2. Semester  
+32 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -398,7 +398,7 @@
 - Projektarbeit
 - Programmschulung
 
-◆ Die Studierenden…
+Die Studierenden…
 * verstehen die Funktionsweise von Ranking in Suchmaschinen und Sozialen Netzwerken. K2
 * verstehen es, statistische Daten von Webseiten zu analysieren, diese zu interpretieren sowie Handlungen für die eigene Arbeit daraus abzuleiten. K5
 * kennen Faktoren, die sich auf ein Ranking auswirken und können diese mit geeigneten Massnahmen beeinflussen. K4
@@ -407,9 +407,9 @@
 ## Management und Controlling (144 Lektionen)
 
 ### Agiles Arbeiten
-▶︎ 1./2. Semester  
-→ Verbunden mit Resourcenplanung  
-✎ 60 Lektionen  
+1./2. Semester  
+Verbunden mit Resourcenplanung  
+60 Lektionen  
 
 
 - Vorlesungen/Seminar
@@ -419,7 +419,7 @@
 - Projektarbeit
 - Programmschulung
 
-◆ Die Studierenden…
+Die Studierenden…
 * verstehen wie kontinuierliches Controlling funktioniert (continous controlling). K2
 * verstehen iterative Arbeitsschritte und können diese anwenden. K3
 * kennen und verstehen unterschiedliche Methoden von Software- und Projekt-Entwicklung. K2
@@ -429,9 +429,9 @@
 
 
 ### Ressourcenplanung
-▶︎ 2./3./4. Semester  
-→ Verbunden mit Agiles Arbeiten, Kostenplanung,  
-✎ 104 Lektionen  
+2./3./4. Semester  
+Verbunden mit Agiles Arbeiten, Kostenplanung,  
+104 Lektionen  
 
 
 - Vorlesungen/Seminar
@@ -440,7 +440,7 @@
 - Beurteilungs-/Analysearbeiten
 - Programmschulung
 
-◆ Die Studierenden…
+Die Studierenden…
 * kennen Strategien zur Projektorganisation und Projektsteuerung und setzen diese ein. K3
 * sind Probleme und Chancen bei der Organisation und Planung eines Teams bewusst. K3
 * verstehen Möglichkeiten und Grenzen von Teamgrössen und Projektlaufzeiten. K4
@@ -449,31 +449,31 @@
 
 
 ### Kostenplanung
-▶︎ 4. Semester  
-→ Verbunden mit Resourcenplanung, Präsentation/Argumentation  
-✎ 48 Lektionen  
+4. Semester  
+Verbunden mit Resourcenplanung, Präsentation/Argumentation  
+48 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
 - Beurteilungs-/Analysearbeiten
 
-◆ Die Studierenden…
+Die Studierenden…
 * können die Platzkosten bezogen auf die eigene Geschäftstätigkeit berechnen. K3
 * kennen die grundlegenden Faktoren für Kostenstellen, Kostenberechnung, Budgetierung sowie Angebot (Offerte). K2
 * verstehen wie ein Angebot von Dritten angefordert, gelesen und verglichen wird. K4
 
 ### Präsentation/Argumentation
-▶︎ 4./5. Semester  
-→ Verbunden mit Kostenplanung  
-✎ 56 Lektionen  
+4./5. Semester  
+Verbunden mit Kostenplanung  
+56 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
 - Beurteilungs-/Analysearbeiten
 
-◆ Die Studierenden…
+Die Studierenden…
 * können ein Argumentarium schriftlich und mündlich zu Design und Technik erarbeiten. K3
 * können Inhalte für eine Präsentation selektieren. K3
 * können Präsentation und Redeziel präzise bestimmen. K3
@@ -487,37 +487,37 @@
 ## Thesis (48 Lektionen)
 
 ### Thesisarbeit/-begleitung
-✎ 48 Lektionen  
+48 Lektionen  
 
 
 ## Diplomarbeit (120 Lektionen)
 
 ### Diplomarbeit/-begleitung
-✎ 120 Lektionen  
+120 Lektionen  
 
 
 ## Unterrichtslektionen
 
 ### Unterricht
-▶︎ exklusiv Thesis/Diplom  
-✎ 1532 Lektionen  
+exklusiv Thesis/Diplom  
+1532 Lektionen  
 
 ## Thesis
 
 ### Thesisarbeit/-begleitung
-✎ 48 Lektionen  
+48 Lektionen  
 
 ## Diplomarbeit
 
 ### Diplomarbeit/-begleitung
-✎ 120 Lektionen  
+120 Lektionen  
 
 ## Arbeiten/betriebliche Praxis
 
 ### persönliche Praxis
-✎ 1600 Lektionen  
+1600 Lektionen  
 
 ## Total Lektionen; Unterrichtskontext/Praxis
 
 ### Unterricht/Projektw./Thesis/Diplom/Praxis
-✎ 3300 Lektionen  
+3300 Lektionen  
