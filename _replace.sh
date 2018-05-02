@@ -9,3 +9,6 @@ perl -pi -e "s/^([^0-9]*)([0-9]+)([^0-9]*) ♻️ ([0-9]+)$/\1\4\3/g" $file # up
 perl -pi -e "s/^(.*) [|].*$/\1/g" $file # kill aditional informations
 
 perl -pi -e "s/📦.*//sg" $file # kill module notation
+
+
+# perl -pi -e "s/^[→✎◆▶︎ ]+//g" $file # kill module notation
