@@ -1,16 +1,15 @@
 # Lehrplan
 
-## Kontextwissen (288 Lektionen)
+## Kontextwissen (200 Lektionen)
 
 ### Medien-/Technologiegeschichte
 ▶︎ 1./3./6. Semester  
 → Verbunden mit Kommunikationslehre/Medientheorie  
-✎ 152 Lektionen  
+✎ 140 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Analysearbeiten
 
 ◆ Die Studierenden…
@@ -29,12 +28,11 @@
 ### Kommunikationslehre/Medientheorie
 ▶︎ 1./3./6. Semester  
 → Verbunden mit Medien-/Technologiegeschichte  
-✎ 152 Lektionen  
+✎ 140 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Analysearbeiten
 
 ◆ Die Studierenden…
@@ -51,11 +49,10 @@
 ### Copyright, Lizenzen und Recht
 ▶︎ 2. Semester  
 → Verbunden mit Marktumfeld/Marktanalyse  
-✎ 56 Lektionen  
+✎ 60 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 
 ◆ Die Studierenden…
 * kennen die Rechte/Pflichten des Urheberrechts in der Schweiz. K2
@@ -69,12 +66,11 @@
 ### Marktumfeld/Marktanalyse
 ▶︎ 2./4. Semester  
 → Verbunden mit Copyright, Lizenzen & Recht  
-✎ 96 Lektionen  
+✎ 60 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 
@@ -89,17 +85,16 @@
 * Verstehen wie ein Marketing-Portfolio für ein Produkt oder eine Kampagne zustande kommt. K4
 
 
-## Konzeption/Crossmedia (384 Lektionen)
+## Konzeption/Crossmedia (324 Lektionen)
 
 ### Konzeption
 ▶︎ 1./3./6. Semester  
 → Verbunden mit Dramaturgie/Narration  
-✎ 188 Lektionen  
+✎ 180 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 
@@ -115,12 +110,11 @@
 ### Dramaturgie/Narration
 ▶︎ 1./2. Semester  
 → Verbunden mit Konzeption  
-✎ 132 Lektionen  
+✎ 180 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 
@@ -133,7 +127,7 @@
 ### Recherche
 ▶︎ 4./5. Semester  
 → Verbunden mit Crossmedia  
-✎ 140 Lektionen  
+✎ 144 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -150,19 +144,17 @@
 ### Crossmedia
 ▶︎ 5. Semester  
 → Verbunden mit Recherche  
-✎ 76 Lektionen  
+✎ 144 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 - Programmschulung
 
 ◆ Die Studierenden…
 * kennen Unterschiede zwischen Crossmedia/Multichannel/Multi Device. K4
-* verstehen die fortschreitende Konvergenz der Medien und deren Auswirkung auf die eigene Arbeit. K4
 * verstehen wie Daten medienneutrale aufbereitet und übergeben werden. K2
 * kennen die einzelnen Medien/Kanäle und können deren Stärken gezielt einsetzen. K3
 * verstehen Crossmedia-Ideen/Workflows und können ihr eigenes Handel im Prozess einordnen. K3
@@ -178,7 +170,6 @@
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 - Programmschulung
@@ -215,7 +206,7 @@
 ### Leseführung
 ▶︎ 1./2. Semester  
 → Verbunden mit Typografie und Design  
-✎ 120 Lektionen  
+✎ 240 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -229,11 +220,10 @@
 * können auf Lesebedürfnisse für Lernende und deren Anforderungen im Design eingehen. K3
 * verstehen, wie die Leseführung in verschiedenen Ausgabegeräten zu gewährleisten ist. K4
 * kennen die Freiheiten/Beschränkungen von einseitigen Inhalten (One-Pager). K3
-* können Inhalte gestalterisch in linearer Form so positionieren, dass die Struktur/Hierarchie unterstützt wird (eBook/digitale Magazinform). K3
 * verstehen die technischen Einschränkungen bei der Gestaltung von Newslettern und können damit gestalterisch umgehen. K3
 
 
-## Interaktion (384 Lektionen)
+## Interaktion (280 Lektionen)
 
 ### Prototyping/Storyboard
 ▶︎ 1. Semester  
@@ -256,7 +246,7 @@
 ### Interaction Design
 ▶︎ 2./3. Semester  
 → Verbunden mit User Interface  
-✎ 152 Lektionen  
+✎ 160 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -275,8 +265,8 @@
 
 ### User Interface  
 ▶︎ 2./3./5. Semester  
-→ Verbunden mit Interact. Design, User Exp./Usab., Interakt. Umfeld  
-✎ 228 Lektionen  
+→ Verbunden mit Interaction Design
+✎ 160 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
@@ -297,13 +287,12 @@
 
 ### User Experience/Usability
 ▶︎ 5. Semester  
-→ Verbunden mit User Interface, Interaktives Umfeld  
-✎ 76 Lektionen  
+→ Verbunden mit Interaktives Umfeld
+✎ 60 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 - Programmschulung
@@ -317,13 +306,12 @@
 
 ### Interaktives Umfeld
 ▶︎ 5. Semester  
-→ Verbunden mit User Interface, User Experience/Usability  
-✎ 76 Lektionen  
+→ Verbunden mit User Experience/Usability
+✎ 60 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 - Programmschulung
@@ -335,17 +323,16 @@
 * können benötigte Inhalte mittels Anforderungsprofil bei Dritten in Auftrag geben, beurteilen und die angelieferten Inhalte anschliessend in die eigene Arbeit integrieren. K6
 
 
-## Technologie (288 Lektionen)
+## Technologie (320 Lektionen)
 
 ### Grundlagen und Code
 ▶︎ 1./2./3./4. Semester  
-→ Verbunden mit Typografie und Technik, Devices, Suchm./Statist.  
-✎ 192 Lektionen  
+→ Verbunden mit Typografie und Technik
+✎ 264 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 - Programmschulung
@@ -364,13 +351,13 @@
 
 ### Typografie und Technik
 ▶︎ 1./5./6. Semester  
-→ Verbunden mit Grundlagen und Code, Devices,  
-✎ 144 Lektionen  
+→ Verbunden mit Grundlagen und Code
+✎ 264 Lektionen  
+
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 - Programmschulung
@@ -380,18 +367,15 @@
 * verstehen die verschiedenen Grössen-Definitionen (CSS) mit denen Typografie relativ oder absolut definiert wird. K4
 * verstehen die Technologie und Möglichkeiten von Webfonts und können diese projektbezogen einsetzen. K4
 * verstehen die Technologien von digitalem Publizieren von Verlagsprodukten. K4
-* kennen die technischen Möglichkeiten und Einschränkungen von eBooks. K2
 
 
 ### Devices
 ▶︎ 1. Semester  
-→ Verbunden mit Grundlagen und Code, Typografie und Technik  
-✎ 48 Lektionen  
+✎ 24 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 - Programmschulung
@@ -401,18 +385,15 @@
 * kennen die Unterschiede von verschiedenen Bildschirm-Technologien.  K4
 * kennen die Eigenheiten von verschiedenen Eingabemöglichkeiten (Maus, Tastatur, Finger, Stift, ...). K4
 * verstehen den Zusammenhang zwischen effektiven Pixeln am Bildschirm, deren Grössenangaben im CSS (pixel ratio) und können diesen Sachverhalt in der Arbeit berücksichtigen. K4
-* kennen Geräte und Software zur Anzeige von eBooks. K3
 
 
 ### Suchmaschine und Statistiken
 ▶︎ 2. Semester  
-→ Verbunden mit Grundlagen und Code  
-✎ 48 Lektionen  
+✎ 32 Lektionen  
 
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 - Programmschulung
@@ -430,10 +411,10 @@
 → Verbunden mit Resourcenplanung  
 ✎ 60 Lektionen  
 
+
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Beurteilungs-/Analysearbeiten
 - Projektarbeit
 - Programmschulung
@@ -441,12 +422,10 @@
 ◆ Die Studierenden…
 * verstehen wie kontinuierliches Controlling funktioniert (continous controlling). K2
 * verstehen iterative Arbeitsschritte und können diese anwenden. K3
-* können wesentliche Aspekte einer Abnahme gegenüber einem Techniker benennen und mit Tests überprüfen. K4
-* können gezielte und präzise Rückmeldungen an Techniker formulieren (Testing & Reporting) K3
 * kennen und verstehen unterschiedliche Methoden von Software- und Projekt-Entwicklung. K2
 * verstehen agile Methoden für Design und Technik und können diese anwenden. K2
 * verstehen wo ein Lastenheft und ein Pflichtenheft nötig ist und wo darauf verzichtet werden kann. K2
-* verstehen was kontinuierliche Integration für die Technik und den Kunden sowie für das eigene Arbeiten bedeutet. K2
+
 
 
 ### Ressourcenplanung
@@ -454,10 +433,10 @@
 → Verbunden mit Agiles Arbeiten, Kostenplanung,  
 ✎ 104 Lektionen  
 
+
 - Vorlesungen/Seminar
 - Einzelstudien/Eigenregie
 - Einzel-/Gruppenarbeiten
-- Gastvorlesungen
 - Beurteilungs-/Analysearbeiten
 - Programmschulung
 
@@ -504,58 +483,6 @@
 * können Inhalte  technisch und visuell adäquat aufbereiten um diese kundengerecht zu präsentieren. K3
 
 
-## Projektwochen (80 Lektionen)
-
-### Projektwoche 1
-▶︎ Schluss 1. Semester  
-✎ 40 Lektionen  
-
-#### Kontextwissen		
-* Medien-/Technologiegeschichte
-
-#### Konzeption/Crossmedia
-* Konzeption
-* Dramaturgie/Narration
-
-#### Design
-* Typografie und Design
-* Leseführung
-
-#### Interaktion
-* Prototyping/Storyboard
-
-#### Technologie
-* Grundlagen und Code
-* Typografie und Technik
-* Devices
-
-### Projektwoche 2
-▶︎ Schluss 2. Semester  
-✎ 40 Lektionen  
-
-#### Kontextwissen
-* Copyright, Lizenzen und Recht
-* Marktumfeld/Marktanalyse
-
-#### Konzeption/Crossmedia
-* Dramaturgie/Narration
-
-#### Design
-* Typografie und Design
-* Leseführung
-
-#### Interaktion
-* Interaction Design
-* User Interface
-
-#### Technologie
-* Grundlagen und Code
-* Suchmaschine und Statistiken
-
-#### Management und Controlling
-* Agiles Arbeiten
-* Resourcenplanung
-
 
 ## Thesis (48 Lektionen)
 
@@ -572,18 +499,8 @@
 ## Unterrichtslektionen
 
 ### Unterricht
-▶︎ exklusiv Projektwochen/Thesis/Diplom  
-✎ 1672 Lektionen  
-
-## Projektwochen
-
-### Projektwoche 1
-▶︎ Schluss 1. Semester  
-✎ 40 Lektionen  
-
-### Projektwoche 2
-▶︎ Schluss 2. Semester  
-✎ 40 Lektionen  
+▶︎ exklusiv Thesis/Diplom  
+✎ 1532 Lektionen  
 
 ## Thesis
 
@@ -603,4 +520,4 @@
 ## Total Lektionen; Unterrichtskontext/Praxis
 
 ### Unterricht/Projektw./Thesis/Diplom/Praxis
-✎ 3600 Lektionen  
+✎ 3300 Lektionen  
