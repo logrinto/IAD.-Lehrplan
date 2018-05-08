@@ -560,9 +560,9 @@
 ## Arbeiten/betriebliche Praxis
 
 ### persönliche Praxis
-✎ 1600 Lektionen  
+✎ 1900 Lektionen  
 
 ## Total Lektionen; Unterrichtskontext/Praxis
 
 ### Unterricht/Projektw./Thesis/Diplom/Praxis
-✎ 3300 Lektionen  
+✎ 3600 Lektionen  
